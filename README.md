@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishal Khatri</h1>
 <h3 align="center">Quality Assurance Enthusiast 🧪🚀</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri1" alt="bishalkhatrichettri1" /></a> </p>
 
 <img align="right" alt="gif" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
 <img align="right" alt="gif" width="400" src="https://i.gifer.com/embedded/download/UbFo.gif">
@@ -7,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalkhatrichettri1&label=Profile%20views&color=0e75b6&style=flat" alt="bishalkhatrichettri1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri1" alt="bishalkhatrichettri1" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/hi" target="blank"><img src="https://img.shields.io/twitter/follow/hi?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
 
