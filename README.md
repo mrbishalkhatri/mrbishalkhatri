@@ -23,7 +23,7 @@
 
 
 
-<img  alt="gif"  src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
+<img align="center" alt="gif"  src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
 
 - 🔭 Spearheading quality assurance initiatives for **KTMRUSH**
 
