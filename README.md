@@ -4,22 +4,15 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/hi?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri1" alt="bishalkhatrichettri1" /></a> </p>
 
 
 
 
 
-
-<kbd>
-  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Left Image" style="float: left; margin-right: 10px; margin-left: 20px;" />
-
-  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Right Image" style="float: right; margin-right: 10px; margin-left: 20px;" />
+<img alt="gif" src="https://github.com/Bishalkhatrichettri1/Bishalkhatrichettri1/blob/main/10798281_19362653.jpg">
 
 
-</kbd>
+
 
 
 
