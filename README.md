@@ -25,6 +25,11 @@
 
 <img align="center" alt="gif"  src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
 
+<p align="center">
+  <img alt="gif" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp" style="max-width:100%;">
+</p>
+
+
 - 🔭 Spearheading quality assurance initiatives for **KTMRUSH**
 
 - 🌱 I’m currently learning **Continuous Integration/Continuous Deployment (CI/CD) pipelines. Advanced test automation frameworks (e.g., Selenium, Appium). Cloud-based testing solutions.**
