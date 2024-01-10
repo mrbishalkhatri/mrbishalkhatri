@@ -3,6 +3,8 @@
 
 <img alt="gif" src="https://github.com/Bishalkhatrichettri1/Bishalkhatrichettri1/blob/main/10798281_19362653.jpg">
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/hi?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri1" alt="bishalkhatrichettri1" /></a> </p>
 
 
@@ -19,7 +21,7 @@
 </kbd>
 
 
-<p align="left"> <a href="https://twitter.com/hi" target="blank"><img src="https://img.shields.io/twitter/follow/hi?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
+
 
 <img  alt="gif"  src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
 
