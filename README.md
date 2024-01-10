@@ -14,7 +14,8 @@
 ## Left Section
 
 <kbd>
-  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Left Image" width="400" style="float: left; margin-right: 10px;" />
+  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Left Image"  style="float: left; margin-right: 10px;" />
+  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Right Image" style="float: right; margin-left: 10px;" />
 </kbd>
 
 Description or content for the left section goes here.
@@ -24,7 +25,7 @@ Description or content for the left section goes here.
 Description or content for the right section goes here.
 
 <kbd>
-  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Right Image" width="400" style="float: right; margin-left: 10px;" />
+  
 </kbd>
 
 
