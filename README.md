@@ -1,4 +1,4 @@
-![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv) ![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv)
+![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv) ![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv) ![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv)
 <h1 align="center">Hi 👋, I'm Bishal Khatri</h1>
 <h3 align="center">Quality Assurance Enthusiast 🧪🚀</h3>
 
