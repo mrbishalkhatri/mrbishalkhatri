@@ -23,11 +23,8 @@
 
 
 
-<img align="center" alt="gif"  src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
 
-<p align="center">
-  <img alt="gif" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp" style="max-width:100%;">
-</p>
+
 
 
 - 🔭 Spearheading quality assurance initiatives for **KTMRUSH**
@@ -68,3 +65,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishalkhatrichettri1&show_icons=true&locale=en" alt="bishalkhatrichettri1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalkhatrichettri1&" alt="bishalkhatrichettri1" /></p>
+
+<p align="center">
+  <img alt="gif" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp" style="max-width:100%;">
+</p>
