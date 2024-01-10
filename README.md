@@ -44,7 +44,7 @@
 
 - ⚡ Fun fact **I can find a bug in anything—software or the matrix! 🐛💻**
 
-<img align="left" alt="gif" src="https://github.com/Bishalkhatrichettri1/Bishalkhatrichettri1/blob/main/UbFo-unscreen.gif">
+<img align="left" alt="gif" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 
 <h3 align="left">Connect with me:</h3>
