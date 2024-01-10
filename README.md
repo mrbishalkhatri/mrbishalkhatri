@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Best practices in test case design. Strategies for efficient bug tracking and reporting. Tips for creating comprehensive test documentation.**
 
-- 📫 How to reach me **Email: [your.email@example.com] LinkedIn: [Your LinkedIn Profile] Twitter: [@YourTwitterHandle]**
+- 📫 How to reach me **Email: bishalkhatrichettri1@gmail.com LinkedIn:  Twitter: **
 
 - ⚡ Fun fact **I can find a bug in anything—software or the matrix! 🐛💻**
 
