@@ -1,3 +1,4 @@
+![logo](https://github.com/Bishalkhatrichettri1/Bishalkhatrichettri1/blob/main/10798281_19362653.jpg)
 <h1 align="center">Hi 👋, I'm Bishal Khatri</h1>
 <h3 align="center">Quality Assurance Enthusiast 🧪🚀</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri1" alt="bishalkhatrichettri1" /></a> </p>
