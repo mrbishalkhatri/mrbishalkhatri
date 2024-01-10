@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://vsgif.com/gif/435750" alt="Alt Text" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Bishal Khatri</h1>
 <h3 align="center">Quality Assurance Enthusiast 🧪🚀</h3>
 
