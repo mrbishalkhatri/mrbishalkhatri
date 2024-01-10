@@ -6,15 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri1" alt="bishalkhatrichettri1" /></a> </p>
 
 
-<img align="right" alt="gif" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
+
 
 
 
 <p align="left"> <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" /> </p>
 
-
+<p align="right"> <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hi" target="blank"><img src="https://img.shields.io/twitter/follow/hi?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
+
+<img  alt="gif"  src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
 
 - 🔭 Spearheading quality assurance initiatives for **KTMRUSH**
 
