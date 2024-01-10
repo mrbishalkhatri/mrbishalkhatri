@@ -11,8 +11,10 @@
 
 
 <kbd>
-  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Left Image"  style="float: left; padding-right: 10; padding-left: 20;" />
-  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Right Image" style="float: right; padding-right: 10; padding-left: 20;" />
+  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Left Image" style="float: left; margin-right: 10px; margin-left: 20px;" />
+
+  <img src="https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv" alt="Right Image" style="float: right; margin-right: 10px; margin-left: 20px;" />
+
 
 </kbd>
 
