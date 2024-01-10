@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Khatri</h1>
 <h3 align="center">Quality Assurance Enthusiast 🧪🚀</h3>
 
-<img alt="gif" src="https://github.com/Bishalkhatrichettri1/Bishalkhatrichettri1/blob/main/10798281_19362653.jpg">
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/hi?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
 
