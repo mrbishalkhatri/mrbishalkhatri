@@ -17,7 +17,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/A7moXphere" target="blank"><img src="https://img.shields.io/twitter/follow/hi?logo=twitter&style=for-the-badge" alt="ME" /></a> </p>
+<p align="left"> <a href="https://twitter.com/A7moXphere" target="blank"><img src="https://img.shields.io/twitter/follow/ME?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsff&label=Profile%20views&color=0e75b6&style=flat" alt="dsff" /> </p>
