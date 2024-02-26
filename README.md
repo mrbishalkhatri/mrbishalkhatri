@@ -64,9 +64,9 @@
 <p><a href="https://www.buymeacoffee.com/bishalkhate"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bishalkhatri" /></a></p><br><br>
 <p></p>
 <p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalkhatrichettri1&show_icons=true&locale=en&layout=compact" alt="bishalkhatrichettri1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalkhatrichettri&show_icons=true&locale=en&layout=compact" alt="bishalkhatrichettri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishalkhatrichettri1&show_icons=true&locale=en" alt="bishalkhatrichettri1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishalkhatrichettri&show_icons=true&locale=en" alt="bishalkhatrichettri" /></p>
 
 
 
