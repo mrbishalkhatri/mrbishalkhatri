@@ -1,6 +1,6 @@
 ![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv) ![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri1" alt="bishalkhatrichettri1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri" alt="bishalkhatrichettri" /></a> </p>
 
 
 <h1 align="center">Hi 👋, I'm Bishal Khatri</h1>
@@ -17,7 +17,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/projectcraftman" target="blank"><img src="https://img.shields.io/twitter/follow/ME?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ProjectCraftman" target="blank"><img src="https://img.shields.io/twitter/follow/ME?logo=twitter&style=for-the-badge" alt="hi" /></a> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsff&label=Profile%20views&color=0e75b6&style=flat" alt="dsff" /> </p>
