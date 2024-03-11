@@ -42,6 +42,9 @@ Portfolio Website (HTML, CSS, JavaScript)**
 
 - 📦 This very website! Built from scratch to showcase my skills and projects. **Check it out here.**
 
+- 🏗️ Let's Build Together!
+**Whether you're an individual looking for a personal website, a freelancer seeking to showcase your work, or a company in need of a robust digital solution, I'm here to help. Let's discuss your project and bring your vision to life!**
+
 - 👯 I’m looking to collaborate on **Open-source testing frameworks. Innovative QA methodologies. Projects promoting software quality and reliability.**
 
 - 🤝 I’m looking for help with **Implementing effective test automation strategies. Enhancing performance testing practices. Staying updated on the latest QA tools and techniques.**
