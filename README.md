@@ -34,6 +34,14 @@
 
 - 🌱 I’m currently learning **Continuous Integration/Continuous Deployment (CI/CD) pipelines. Advanced test automation frameworks (e.g., Selenium, Appium). Cloud-based testing solutions.**
 
+- I’m looking to create **Digital Products & Websites
+E-Commerce Platform (React, Node.js, MySQL)**
+
+-Developed **a scalable e-commerce platform with React frontend and Node.js backend, achieving a 20% increase in user engagement.
+Portfolio Website (HTML, CSS, JavaScript)**
+
+**This very website! Built from scratch to showcase my skills and projects. Check it out here.**
+
 - 👯 I’m looking to collaborate on **Open-source testing frameworks. Innovative QA methodologies. Projects promoting software quality and reliability.**
 
 - 🤝 I’m looking for help with **Implementing effective test automation strategies. Enhancing performance testing practices. Staying updated on the latest QA tools and techniques.**
