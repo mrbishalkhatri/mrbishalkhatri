@@ -51,7 +51,7 @@ Portfolio Website (HTML, CSS, JavaScript)**
 
 - 💬 Ask me about **Best practices in test case design. Strategies for efficient bug tracking and reporting. Tips for creating comprehensive test documentation.**
 
-- 📫 How to reach me **Email: bishalkhatrichettri1@gmail.com LinkedIn:  Twitter: **
+- 📫 How to reach me **Email: bishalkhatrichettri1@gmail.com LinkedIn: linkedin.com/qa-bishal-khatri  Twitter: twitter.com/ProjectCraftman**
 
 - ⚡ Fun fact **I can find a bug in anything—software or the matrix! 🐛💻**
 
@@ -60,7 +60,7 @@ Portfolio Website (HTML, CSS, JavaScript)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/A7moXphere target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hi" height="30" width="40" /></a>
+<a href="https://twitter.com/ProjectCraftman target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/qa-bishal-khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdasd" height="30" width="40" /></a>
 <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asdasd" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asdasd" height="30" width="40" /></a>
