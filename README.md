@@ -51,7 +51,7 @@ Portfolio Website (HTML, CSS, JavaScript)**
 
 - 💬 Ask me about **Best practices in test case design. Strategies for efficient bug tracking and reporting. Tips for creating comprehensive test documentation.**
 
-- 📫 How to reach me **Email: bishalkhatrichettri1@gmail.com LinkedIn: www.linkedin.com/qa-bishal-khatri  Twitter: www.twitter.com/ProjectCraftman**
+- 📫 How to reach me **Email: bishalkhatrichettri1@gmail.com LinkedIn: www.linkedin.com/in/qa-bishal-khatri  Twitter: www.twitter.com/ProjectCraftman**
 
 - ⚡ Fun fact **I can find a bug in anything—software or the matrix! 🐛💻**
 
