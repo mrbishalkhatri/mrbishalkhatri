@@ -40,7 +40,7 @@ E-Commerce Platform (React, Node.js, MySQL)**
 - 🤖 I've Developed **a scalable e-commerce platform with React frontend and Node.js backend, achieving a 20% increase in user engagement.
 Portfolio Website (HTML, CSS, JavaScript)**
 
-- 📦 This very website! Built from scratch to showcase my skills and projects. **<p><a href="https://bishalkhatrichettri.github.io/welcome.html](https://mrbishalkhatri.github.io" target="_blank">Click here</a> to explore.</p>**
+- 📦 This very website! Built from scratch to showcase my skills and projects. **<p><a href="https://mrbishalkhatri.github.io" target="_blank">Click here</a> to explore.</p>**
 
 - 🏗️ Let's Build Together!
 **Whether you're an individual looking for a personal website, a freelancer seeking to showcase your work, or a company in need of a robust digital solution, I'm here to help. Let's discuss your project and bring your vision to life!**
