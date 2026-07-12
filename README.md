@@ -1,6 +1,6 @@
 ![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv) ![logo](https://64.media.tumblr.com/83928a1806eea0bf918c0dff130c9dbc/tumblr_na39k233Xy1r83cqho1_400.gifv)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkhatrichettri" alt="bishalkhatrichettri" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbishalkhatri" alt="bishal khatri" /></a> </p>
 
 
 <h1 align="center">Hi 👋, I'm Bishal Khatri</h1>
