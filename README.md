@@ -40,7 +40,7 @@ E-Commerce Platform (React, Node.js, MySQL)**
 - 🤖 I've Developed **a scalable e-commerce platform with React frontend and Node.js backend, achieving a 20% increase in user engagement.
 Portfolio Website (HTML, CSS, JavaScript)**
 
-- 📦 This very website! Built from scratch to showcase my skills and projects. **<p><a href="https://bishalkhatrichettri.github.io/welcome.html" target="_blank">Click here</a> to explore.</p>**
+- 📦 This very website! Built from scratch to showcase my skills and projects. **<p><a href="https://bishalkhatrichettri.github.io/welcome.html](https://mrbishalkhatri.github.io" target="_blank">Click here</a> to explore.</p>**
 
 - 🏗️ Let's Build Together!
 **Whether you're an individual looking for a personal website, a freelancer seeking to showcase your work, or a company in need of a robust digital solution, I'm here to help. Let's discuss your project and bring your vision to life!**
@@ -75,9 +75,7 @@ Portfolio Website (HTML, CSS, JavaScript)**
 <p><a href="https://www.buymeacoffee.com/bishalkhate"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bishalkhatri" /></a></p><br><br>
 <p></p>
 <p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbishalkhatri&show_icons=true&locale=en&layout=compact" alt="bishal khatri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbishalkhatri&show_icons=true&locale=en" alt="bishal khatri" /></p>
 
 
 
