@@ -32,6 +32,8 @@
 
 - 🔭 Spearheading quality assurance initiatives for **KTMRUSH**
 
+- 💼 Working as a Quality Assurance Specialist at **Tulips Technologies Pvt. Ltd.**
+
 - 🌱 I’m currently learning **Continuous Integration/Continuous Deployment (CI/CD) pipelines. Advanced test automation frameworks (e.g., Selenium, Appium). Cloud-based testing solutions.**
 
 - 🛠️ I’m looking to create **Digital Products & Websites
